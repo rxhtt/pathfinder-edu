@@ -4,7 +4,7 @@
  * terrain weights to grid nodes based on actual road classification.
  */
 
-const GOOGLE_MAPS_API_KEY = "AIzaSyAI4kKwrfYQkASZ-c8dAgZAY7StMvK9x4I";
+const GOOGLE_MAPS_API_KEY = import.meta.env.VITE_GOOGLE_MAPS_API_KEY || '';
 
 // Dharwad bounding box
 const BOUNDS = {
