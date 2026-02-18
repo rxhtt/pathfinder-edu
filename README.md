@@ -23,6 +23,26 @@ The 3D grid is overlaid on Google Satellite imagery with procedurally generated 
 
 ---
 
+## Screenshots
+
+**Race Mode — BFS vs A* running simultaneously**
+
+![Race Mode](screenshots/race_mode.png)
+
+**Left Panel — Algorithm controls and live stats**
+
+![Left Panel](screenshots/left_panel.png)
+
+**Right Panel — Terrain weights and route analysis**
+
+![Terrain Panel](screenshots/terrain_panel.png)
+
+**Algorithm Learning Center — BFS theory with pseudocode**
+
+![Learning Center](screenshots/learning_center.png)
+
+---
+
 ## Algorithms
 
 ### Breadth-First Search (BFS)
